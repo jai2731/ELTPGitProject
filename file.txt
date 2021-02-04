@@ -4,4 +4,5 @@ change to check modifications
 
 i am jayaprakash
 
-chang:fix to bug1
+change1:fix to bug1
+change 2:fix to bug2
